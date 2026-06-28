@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The **Hospital Analytics Dashboard** is an interactive Business Intelligence project built using **Power BI**. It provides insights into hospital operations by analyzing patient records, doctor availability, appointments, billing, and departmental performance. The dashboard helps healthcare organizations make informed decisions through clear and interactive visualizations.
+The **Hospital Analytics Dashboard** is an interactive Business Intelligence project built using **Power BI**. It provides insights into hospital operations by analyzing patient records, doctor availability, appointments, billing, and departmental performance. The dashboard helps healthcare organizations make informed decisions through clear and interactive visualizations
 
 ---
 
